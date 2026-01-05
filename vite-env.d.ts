@@ -1,0 +1,1 @@
+// Identifies types for Vite environment variables.
